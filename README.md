@@ -12,6 +12,7 @@ More about each app on my portfolio: https://tejusportfolio.vercel.app/projects
 | **Ankara Blocks** | An endless block puzzle with 50 levels of Ankara designs. | [AnkaraBlocks-1.0.0.apk](https://github.com/tejHacks/apps/releases/download/ankara-blocks-v1.0.0/AnkaraBlocks-1.0.0.apk) |
 | **Periodica** | The periodic table, as a game. | [Periodica-1.0.0.apk](https://github.com/tejHacks/apps/releases/download/periodica-v1.0.0/Periodica-1.0.0.apk) |
 | **CribDoc** | Catch newborn jaundice early, even with no internet. | [CribDoc-1.0.0.apk](https://github.com/tejHacks/apps/releases/download/cribdoc-v1.0.0/CribDoc-1.0.0.apk) |
+| **SwiftLab** | Learn Swift 6 from zero to advanced, then get interview-ready, offline. | [SwiftLab-1.0.0.apk](https://github.com/tejHacks/apps/releases/download/swiftlab-v1.0.0/SwiftLab-1.0.0.apk) |
 | **Flow** | Empty your head. Leave with three things to do. | [Flow-1.0.0.apk](https://github.com/tejHacks/apps/releases/download/flow-v1.0.0/Flow-1.0.0.apk) |
 | **ShellDeck** | Every Linux and shell command you keep forgetting, offline and instant. | [ShellDeck-1.0.0.apk](https://github.com/tejHacks/apps/releases/download/shelldeck-v1.0.0/ShellDeck-1.0.0.apk) |
 | **Mocho** | Your music, offline, beautifully. | [Mocho-1.0.0.apk](https://github.com/tejHacks/apps/releases/download/mocho-v1.0.0/Mocho-1.0.0.apk) |
